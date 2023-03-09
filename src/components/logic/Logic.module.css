@@ -1,0 +1,25 @@
+.main {
+  color: white;
+  /* background-color: wheat; */
+}
+.activies {
+  background-color: rgb(92, 92, 92);
+  color: white;
+  border-radius: 20px;
+  font-family: monospace;
+  font-size: large;
+  
+}
+
+.btn {
+  background-color: rgb(176, 172, 172);
+  border-radius: 10px;
+  height: 2rem;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.btn:hover {
+  background-color: red;
+  cursor: pointer;
+}
